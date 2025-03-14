@@ -1,12 +1,12 @@
-# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4）【2025-03-12】
+# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、GPT-o3、deepseek、grok3）【2025-03-15】
 
-> 更新时间：2025年3月12日
+> 更新时间：2025年3月15日
 >
 > 作者：Cailailai
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 ChatGPT镜像网站资源，方便用户无需翻墙即可快速访问 GPT 的强大功能。
 
-同时提供了免费的使用教程，助您在国内使用上ChatGPT免费中文版镜像网站，**无限制使用GPT-4o、o1-preview**。
+同时提供了免费的使用教程，助您在国内使用上ChatGPT免费中文版镜像网站，**无限制使用GPT-4o、o1-preview、GPT-o3、deepseek、grok3**。
 
 ## 什么是ChatGPT中文版镜像网站？
 
@@ -16,7 +16,7 @@ ChatGPT中文版镜像网站（ChatGPT Mirror）是指通过复制ChatGPT官网�
 
 ## 精选推荐国内ChatGPT中文版镜像网站
 
-[songshugpt.com](https://songshugpt.com) - ChatGPT中文版，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+[songshugpt.com](https://songshugpt.com) - ChatGPT中文版，运营快2年，支持 GPT4、4o 以及 o1、GPT-o3、deepseek、grok3，支持 AI绘画，扫码就能用~
 
 [ai.panda.xyz](https://ai.panda.xyz)- ChatGPT镜像网站，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 
