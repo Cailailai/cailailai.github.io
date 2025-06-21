@@ -1,6 +1,6 @@
-# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、GPT-o3、deepseek、grok3）【2025-06-15】
+# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、GPT-o3、deepseek、grok3）【2025-06-22】
 
-> 更新时间：2025年6月15日
+> 更新时间：2025年6月22日
 >
 > 作者：Cailailai
 
